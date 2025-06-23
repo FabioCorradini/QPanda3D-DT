@@ -1,17 +1,8 @@
 
 # QPanda3D
 
-A working Panda3D wrapper for PySide6
+A working Panda3D wrapper for Qt5
 The objective is to be able to put on the same screen, panda3D and QT widgets.
-
-This package is still a work in progress.
-What works :
-
-- Creating a panda3D world inside a seemlessly QWidget object that can be placed alog with other QT stuff
-- Full access to panda3D objects, lights ...
-- Keyboard press and up are supported starting from v 0.5
-What doesn't work yet:
-- Mouse and timed keyboard interactions
 
 ## Installation
 
