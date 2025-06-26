@@ -9,6 +9,6 @@ Bases on https://github.com/ParisNeo/QPanda3D with minor modifications.
 ## Installation
 
 ```bash
-pip install git+git@gitlab-core.supsi.ch:dti-isteps/spslab/minifactory/sviluppo-fabbrica/qpanda3d-dt.git@main
+pip install python -m pip install git+https://github.com/FabioCorradini/QPanda3D-DT.git@main
 ```
 
